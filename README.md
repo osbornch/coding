@@ -1,14 +1,20 @@
 # Data Structure
-1. Array
-2. LinkedList
-3. Tree
-4. Stack
-5. Queue
+- [x] 1. Array
+- [x] 2. LinkedList
+- [x] 3. Tree
+- [x] 4. Stack
+- [x] 5. Queue
+- [x] 6. Trie
+- [x] 7. HashMap
 
 
 
 # Algorithm
 1. sorting
+2. bfs
+3. dfs
+4. topological
+
    
 
 # Backend Design
