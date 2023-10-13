@@ -4,19 +4,21 @@ class Node:
         self.value = value
         self.next = None
     
-class HashMap:
-    def __init__(self) -> None:
-        pass
+class Graph:
+    def __init__(self):
+        self.nodes = nodes
+        self.graph = self.construct_graph(nodes)
 
-    def get(self, key):
-        pass
+    def construct_graph(self, nodes):
+        graph = {}
+        for node in nodes:
+            graph[node] = {}
 
-    def put(self, key, value):
-        pass
+        graph.update(init_graph)
+        for node, edges in graph.items():
+            for adjacent_node, value in edges.items():
+                graph[edge][node] = graph[node][edge]
 
-
-hm = HashMap()
-
-hm.put("1", "1")
+graph = Graph()
 
 print("Hello world")
