@@ -11,7 +11,11 @@
 
 # Algorithm
 1. sorting
+   1. Bucket Sort
+      1. Summarization:
+         1. Use 
 2. bfs
+   
 3. dfs
 4. topological
 
