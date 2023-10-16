@@ -4,8 +4,6 @@ def search(nums, target):
 
     while start <= end:
         mid = start + (end-start)//2
-
-
         if nums[mid] > target:
             end = mid-1
         elif nums[mid] < target:
