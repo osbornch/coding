@@ -7,7 +7,6 @@ def uniqueOccur(arr):
             check[i] = 1   
     return len(set(check.values())) == len(check.values())
 
-
 # positive 
 print(uniqueOccur([1,2,2,1,1,3]))
 
