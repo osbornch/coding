@@ -21,6 +21,15 @@
 
    
 
+# Frontend Design
+## client side rendering
+
+## Server side rendering
+
+## Multi platform
+
+
+
 # Backend Design
 
 ## High throughput infra
@@ -36,6 +45,8 @@
     Airbnb wallet
 ## Geo application
     Google maps
+## AI 
+    Reccommendation system
 
 ### Implementation
 
