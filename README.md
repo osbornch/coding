@@ -31,7 +31,7 @@
 ## Collabration application
     Slack
 ## Content Sharing applications
-    Chat
+    Multi people Chat
 ## Distributed Transaction application
     Airbnb wallet
 ## Geo application
