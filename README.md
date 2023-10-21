@@ -77,3 +77,7 @@ NoSql to sql
 # Design
 
 ## Palatte
+
+# CFA notes
+
+## GDP
