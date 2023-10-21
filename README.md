@@ -20,14 +20,13 @@
 
    
 
+
 # Frontend Design
 ## client side rendering
 
 ## Server side rendering
 
 ## Multi platform
-
-
 
 # Backend Design
 
@@ -65,7 +64,16 @@
 
 ### Sql
 
+Sql to NoSql
+
 ### NoSql
+
+NoSql to sql
 
 ### Frontend Design
 
+## Database
+
+# Design
+
+## Palatte
