@@ -8,7 +8,6 @@
 - [x] 7. HashMap
 
 
-
 # Algorithm
 1. sorting
    1. Bucket Sort
@@ -35,18 +34,30 @@
 ## High throughput infra
     Key Value DB
     Notification system
+    Trade Off
 ## High volume infra
     No
+    Trade Off
+
 ## Collabration application
     Slack
+    Trade Off
+
 ## Content Sharing applications
     Multi people Chat
+    Trade Off
+
 ## Distributed Transaction application
     Airbnb wallet
+    Trade Off
+
 ## Geo application
     Google maps
+    Trade Off
+
 ## AI 
     Reccommendation system
+    Trade Off
 
 ### Implementation
 
@@ -58,4 +69,3 @@
 
 ### Frontend Design
 
-### AI design
