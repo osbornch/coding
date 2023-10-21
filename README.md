@@ -23,7 +23,19 @@
 
 # Backend Design
 
-## Cache
+## High throughput infra
+    Key Value DB
+    Notification system
+## High volume infra
+    No
+## Collabration application
+    Slack
+## Content Sharing applications
+    Chat
+## Distributed Transaction application
+    Airbnb wallet
+## Geo application
+    Google maps
 
 ### Implementation
 
