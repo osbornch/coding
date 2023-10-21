@@ -1,0 +1,14 @@
+D:\workspace\learning\async\testAsync\testAsync\bin\Debug\net6.0\testAsync.exe
+D:\workspace\learning\async\testAsync\testAsync\bin\Debug\net6.0\testAsync.deps.json
+D:\workspace\learning\async\testAsync\testAsync\bin\Debug\net6.0\testAsync.runtimeconfig.json
+D:\workspace\learning\async\testAsync\testAsync\bin\Debug\net6.0\testAsync.dll
+D:\workspace\learning\async\testAsync\testAsync\bin\Debug\net6.0\testAsync.pdb
+D:\workspace\learning\async\testAsync\testAsync\obj\Debug\net6.0\testAsync.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\learning\async\testAsync\testAsync\obj\Debug\net6.0\testAsync.AssemblyInfoInputs.cache
+D:\workspace\learning\async\testAsync\testAsync\obj\Debug\net6.0\testAsync.AssemblyInfo.cs
+D:\workspace\learning\async\testAsync\testAsync\obj\Debug\net6.0\testAsync.csproj.CoreCompileInputs.cache
+D:\workspace\learning\async\testAsync\testAsync\obj\Debug\net6.0\testAsync.dll
+D:\workspace\learning\async\testAsync\testAsync\obj\Debug\net6.0\refint\testAsync.dll
+D:\workspace\learning\async\testAsync\testAsync\obj\Debug\net6.0\testAsync.pdb
+D:\workspace\learning\async\testAsync\testAsync\obj\Debug\net6.0\testAsync.genruntimeconfig.cache
+D:\workspace\learning\async\testAsync\testAsync\obj\Debug\net6.0\ref\testAsync.dll
