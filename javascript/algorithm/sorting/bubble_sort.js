@@ -1,4 +1,4 @@
-const quicksort = (arr) => {
+const bubbleSort = (arr) => {
   let swapped;
 
   do {
