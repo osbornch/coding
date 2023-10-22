@@ -31,44 +31,44 @@
 # Backend Design
 
 ## High throughput infra
-Notification
-Rate limiter
-TopK
-Key value store
-Typeahead suggestion
-Distributed message queue
+    Notification
+    Rate limiter
+    TopK
+    Key value store
+    Typeahead suggestion
+    Distributed message queue
 
 ## High volume infra
-Cloud file system (e.g. design google drive, dropbox)
-Distributed log collection
-Ads logging
-Web Crawler
+    Cloud file system (e.g. design google drive, dropbox)
+    Distributed log collection
+    Ads logging
+    Web Crawler
 
 ## Collabration application
-Multi-user chat
-News Feed 
-News Feed Real Time Comments
-Like-unlike
-Calendar
+    Multi-user chat
+    News Feed
+    News Feed Real Time Comments
+    Like-unlike
+    Calendar
 
 ## Content Sharing applications
-YouTube
-Google Photos
-TinyURL
+    YouTube
+    Google Photos
+    TinyURL
 
 ## Distributed Transaction application
-Ebay auction
-inventory management
-Ticketmaster
-Uber payment
+    Ebay auction
+    inventory management
+    Ticketmaster
+    Uber payment
 
 ## Geo application
-Design Uber
-Design Yelp
+    Design Uber
+    Design Yelp
 
 ## AI 
-Recommendation system
-Trade Off
+    Recommendation system
+    Trade Off
 
 ### Implementation
 
