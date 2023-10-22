@@ -70,7 +70,7 @@
     Recommendation system
     Trade Off
 
-### Implementation
+### 
 
 ## Database
 
@@ -90,6 +90,32 @@ NoSql to sql
 
 ## Palatte
 
-# CFA notes
+# Tech blogs
+   1. OpenAI Software Engineering:  https://lnkd.in/g3wFsZk7
+   2. Figma Engineering:  https://lnkd.in/gFbvV8Mk
+   3. Engineering @ Meta:  https://lnkd.in/gc9xnZQ8
+   4. Stripe Engineering:  https://lnkd.in/g4JqgY39
+   5. AWS Architecture:  https://lnkd.in/gCVaRbrh
+   6. Nextflix Tech:  https://lnkd.in/gq-SWapT
+   7. Airbnb Tech:  https://lnkd.in/gy3RF5ih
+   8. Uber Engineering:  https://lnkd.in/gvga-NEg
+   9. Dropbox Tech:  https://dropbox.tech/
+   10. Github Engineering:  https://lnkd.in/gKNBpb7V
+   11. Instagram Engineering:  https://lnkd.in/grE9bRCy
+   12. Engineering @ Microsoft:  https://lnkd.in/g2cp3Zka
+   13. MongoDB Engineering:  https://lnkd.in/grsAiuvS
+   14. Twitter Engineering:  https://lnkd.in/gVVcSYNf
+   15. Notion Tech:  https://lnkd.in/gCUUi2UC
+   16. LinkedIn Engineering:  https://lnkd.in/gSfVDvds
+   17. Pinterest Engineering:  https://lnkd.in/gnfrme2Z
+   18. Lyft Engineering:  https://eng.lyft.com/
+   19. Spotify Engineering:  https://lnkd.in/gje__jGu
+   20. Canva Engineering:  https://lnkd.in/gRHZtDCa
+   21. Slack Engineering:  https://slack.engineering/
+   22. Reddit Engineering:  https://lnkd.in/gFvw96rm
+   23. Snap Engineering:  https://eng.snap.com/blog
+   24. Engineering @ Ramp:  https://lnkd.in/gw_kd2Vj
+   25. Instacart Tech:  https://lnkd.in/gdGN9SrY
+   26. Stack Overflow Engineering:  https://lnkd.in/gENW-7Wh
+   27. Twitch Engineering:  https://lnkd.in/gbdq7Yq2
 
-## GDP
