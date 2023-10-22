@@ -31,28 +31,42 @@
 # Backend Design
 
 ## High throughput infra
-    Key Value DB
-    Notification system
-    Trade Off
+Notification
+Rate limiter
+TopK
+Key value store
+Typeahead suggestion
+Distributed message queue
+
 ## High volume infra
-    No
-    Trade Off
+Cloud file system (e.g. design google drive, dropbox)
+Distributed log collection
+Ads logging
+Web Crawler
 
 ## Collabration application
-    Slack
-    Trade Off
+Multi-user chat
+News Feed 
+News Feed Real Time Comments
+Like-unlike
+Calendar
 
 ## Content Sharing applications
-    Multi people Chat
-    Trade Off
+YouTube
+Google Photos
+TinyURL
+
 
 ## Distributed Transaction application
-    Airbnb wallet
-    Trade Off
+Ebay auction
+inventory management
+Ticketmaster
+Uber payment
+
 
 ## Geo application
-    Google maps
-    Trade Off
+Design Uber
+Design Yelp
 
 ## AI 
     Reccommendation system
