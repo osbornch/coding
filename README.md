@@ -1,3 +1,6 @@
+# Learning curve
+![Alt text](image3-2.png)
+
 # Data Structure
 - [x] 1. Array
 - [x] 2. LinkedList
