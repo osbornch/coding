@@ -1,15 +1,34 @@
 # Two Sum
 # Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
-# https://leetcode.com/problems/two-sum/description/
+# https://leetcode.com/problems/trapping-rain-water/
 
 class Solution:
-    def twoSum(self, nums, target):
-        num_dict = {}
-        for i, num in enumerate(nums):
-            complement = target - num
-            if complement in num_dict:
-                return [num_dict[complement], i]
-            num_dict[num] = i
-        return []
+    def trap(self, height):
+        if len(height) <= 2:
+            return 0
+
+        ans = 0
+
+        i = 1
+        j = len(height) - 1
+
+        lmax = height[0]
+        rmax = height[-1]
+
+        while i<=j:
+            if height[i] > lmax:
+                lmax = height[i]
+            if height[j] > rmax:
+                rmax = height[j]
+
+            if lmax <= rmax:
+                ans += lmax - height[i]
+                i += 1
+
+            else:
+                ans += rmax - height[j]
+                j -= 1
+
+        return ans
     
-print(Solution().twoSum([2,7,11,15], 9))
+print(Solution().trap([4,2,0,3,2,5]))
