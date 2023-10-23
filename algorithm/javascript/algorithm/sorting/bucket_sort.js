@@ -17,4 +17,4 @@ const quicksort = (arr) => {
   };
   
   let myArray = [12, 10, 3, 7, 4];
-  console.log(bubbleSort(myArray)); // returns [3, 4, 7, 10, 12]
+  console.log(quicksort(myArray)); // returns [3, 4, 7, 10, 12]
