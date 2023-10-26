@@ -26,3 +26,6 @@ const minTaps = function(n, ranges) {
 
 console.log(minTaps(5,  [3,4,1,1,0,0])); // returns [3, 4, 7, 10, 12]
 console.log(minTaps(3,  [0,0,0,0])); // returns [3, 4, 7, 10, 12]
+
+// TC: O(N~2)
+// SC: O(N)

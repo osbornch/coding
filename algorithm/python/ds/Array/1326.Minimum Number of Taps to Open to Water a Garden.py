@@ -20,3 +20,6 @@ def minTaps(n, ranges):
 print(minTaps(5, [3,4,1,1,0,0]))
 
 print(minTaps(3, [0,0,0,0]))
+
+# TC: O(n^2)
+# SC: O(n)
