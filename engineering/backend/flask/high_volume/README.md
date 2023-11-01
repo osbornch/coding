@@ -20,6 +20,9 @@ https://www.youtube.com/results?search_query=key+value+db%E8%AE%BE%E8%AE%A1
 
 2. Consistency
    
+
+Consistency design vs Availability design
+
 ## Design
 
 Consistent hash
