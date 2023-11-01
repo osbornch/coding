@@ -1,97 +1,29 @@
-# Data Structure
-- [x] 1. Array
-- [x] 2. LinkedList
-- [x] 3. Tree
-- [x] 4. Stack
-- [x] 5. Queue
-- [x] 6. Trie
-- [x] 7. HashMap
+
+# Key value store
+
+## Problem statement
 
 
-# Algorithm
-1. sorting
-   1. Bucket Sort
-      1. Summarization:
-         1. Use 
-2. bfs
+1. Availability
+
+2. Consistency
    
-3. dfs
-4. topological
+## Design
 
-   
-
-
-# Frontend Design
-## client side rendering
-
-## Server side rendering
-
-## Multi platform
-
-# Backend Design
-
-## High throughput infra
-Notification
-Rate limiter
-TopK
-Key value store
-Typeahead suggestion
-Distributed message queue
-
-## High volume infra
-Cloud file system (e.g. design google drive, dropbox)
-Distributed log collection
-Ads logging
-Web Crawler
-
-## Collabration application
-Multi-user chat
-News Feed 
-News Feed Real Time Comments
-Like-unlike
-Calendar
-
-## Content Sharing applications
-YouTube
-Google Photos
-TinyURL
+Consistent hash
 
 
-## Distributed Transaction application
-Ebay auction
-inventory management
-Ticketmaster
-Uber payment
+   Controller:
 
 
-## Geo application
-Design Uber
-Design Yelp
+   Data:
 
-## AI 
-    Reccommendation system
-    Trade Off
+Consistency: 
 
-### Implementation
+   Strong consistency
 
-## Database
+   eventual consistency
 
-### Sql
-
-Sql to NoSql
-
-### NoSql
-
-NoSql to sql
-
-### Frontend Design
-
-## Database
-
-# Design
-
-## Palatte
-
-# CFA notes
-
-## GDP
+GRPC vs HTTP:
+1. GRPC size is smaller, use less bandwidth
+## 
