@@ -9,6 +9,8 @@ https://www.youtube.com/results?search_query=key+value+db%E8%AE%BE%E8%AE%A1
 1. How to store in local if not able to store in memory
    How does B+ tree work
 
+   https://stackoverflow.com/questions/40740752/how-to-lay-out-b-tree-data-on-disk
+
 2. 
 
 # Key value store
